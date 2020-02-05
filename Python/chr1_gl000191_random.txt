@@ -1,0 +1,13 @@
+Processing chr1_gl000191_random
+Assembling sequence
+Finding TATA boxes
+Idenitifying proteins
+Found 8 proteins:
+(23421, 23427)
+(33462, 33465)
+(39225, 39246)
+(57707, 57713)
+(57820, 57949)
+(67815, 67830)
+(91357, 91399)
+(102840, 102978)

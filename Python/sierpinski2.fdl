@@ -1,0 +1,6 @@
+start F L F L F L
+rule F -> F L F L F L F F
+length 5
+depth 6
+cmd F fd
+cmd L lt 120
